@@ -1,10 +1,10 @@
 # fuckjxjs
 <h1>使用</h1> 
-1.首先下载将app.py和tk.xlsx<br>
-2.安装3个py库 flask flask_cors openpyxl 
-pip install 库名  
-3.修改第8行的路径file_path = r'C:\Users\Rialll\Desktop\tk.xlsx'  
-指向你下载的tk.xlsx  
+1.首先下载将app.py和tk.xlsx <br>
+2.安装3个py库 flask flask_cors openpyxl <br>
+pip install 库名  <br>
+3.修改第8行的路径file_path = r'C:\Users\Rialll\Desktop\tk.xlsx'  <br> 
+指向你下载的tk.xlsx <br>
 
 4.运行app.py
 
