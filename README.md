@@ -1,4 +1,5 @@
 # fuckjxjs
+<h1>使用</h1> 
 1.首先下载将app.py和tk.xlsx  
 2.安装3个py库 flask flask_cors openpyxl  
 pip install 库名  
@@ -8,7 +9,7 @@ pip install 库名
 
 4.运行app.py
 
-##注意  
+<h1>注意</h1>  
 我不确保题库100%正确,如果你有更好的题库请自行替换表格  
 
 b_column_index = 1  # 题目列 B 列的索引为 1（从 0 开始）  
